@@ -1,5 +1,5 @@
 # Gesseduca
-Blog para ajudar professores para desenvolver atividades escolares.
+Blog para ajudar os professores com atividades escolares, noticias e conhecimentos sobre grandes nomes da educação.
 
 Blog para minha esposa, uma professora maravilhosa precisava mostrar o seu conhecimento ... ❤️.
 Muito feliz por ajudar a Mulher que eu amo..
